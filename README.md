@@ -19,5 +19,5 @@ Este proyecto es una aplicación web sencilla para gestionar tareas (To-Do List)
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/isgb/crud-tareas-laravel.git
-cd crud-tareas-laravel# laravel-tareas-app
+git clone https://github.com/isgb/laravel-tareas-app.git
+cd laravel-tareas-app
